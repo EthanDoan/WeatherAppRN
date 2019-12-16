@@ -23,39 +23,20 @@
     
     NSURL *jsCodeLocation = [NSURL URLWithString:@"http://localhost:8081/index.bundle?platform=ios"];
     
-    
     Weather *weather = [[Weather alloc] init];
     [weather getWeather:^(NSArray * _Nonnull resultArr) {
         if (!resultArr) {
             NSLog(@"Fail to get weather data");
             return;
         }
-        
         NSDictionary *initialProps = @{
             @"list": resultArr
         };
-        
         dispatch_async(dispatch_get_main_queue(), ^{
             self.rootView = [[RCTRootView alloc] initWithBundleURL: jsCodeLocation moduleName: @"WeatherList" initialProperties: initialProps launchOptions: nil];
             self.view = self.rootView;
         });
     }];
-    
-//    [[WeatherApi shared] getYesterdayWeather:^(NSArray * _Nonnull responseArr) {
-//
-//        NSDictionary *initialProps = @{
-//            @"list": responseArr
-//        };
-//
-//        dispatch_async(dispatch_get_main_queue(), ^{
-//            self.rootView = [[RCTRootView alloc] initWithBundleURL: jsCodeLocation moduleName: @"WeatherList" initialProperties: initialProps launchOptions: nil];
-//            self.view = self.rootView;
-//        });
-//    }];
-    
-//    NSDate *yesterday = [NSDate dateWithTimeIntervalSinceNow:-86400];
-//    NSLog(@"%@ - %@ - %@", yesterday.yearString, yesterday.monthString, yesterday.dateString);
-    
 }
 
 

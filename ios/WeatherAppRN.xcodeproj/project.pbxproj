@@ -89,16 +89,12 @@
 		D7244CB423A775440056C00B /* WeatherAppRN */ = {
 			isa = PBXGroup;
 			children = (
+				D7B9089C23A7B0E300056D69 /* Extension */,
+				D7B9089D23A7B11800056D69 /* Model */,
 				D7244CB523A775440056C00B /* AppDelegate.h */,
 				D7244CB623A775440056C00B /* AppDelegate.m */,
 				D7244CB823A775440056C00B /* SceneDelegate.h */,
 				D7244CB923A775440056C00B /* SceneDelegate.m */,
-				D7244CD723A78EFA0056C00B /* NSDate+Extension.h */,
-				D7244CD823A78EFA0056C00B /* NSDate+Extension.m */,
-				D7D335BC23A79D2A005A67D1 /* Weather.h */,
-				D7D335BD23A79D2A005A67D1 /* Weather.m */,
-				D7244CD423A78BED0056C00B /* WeatherApi.h */,
-				D7244CD523A78BED0056C00B /* WeatherApi.m */,
 				D7244CBB23A775440056C00B /* ViewController.h */,
 				D7244CBC23A775440056C00B /* ViewController.m */,
 				D7244CCE23A781340056C00B /* WeatherViewController.h */,
@@ -110,6 +106,26 @@
 				D7244CC723A7754A0056C00B /* main.m */,
 			);
 			path = WeatherAppRN;
+			sourceTree = "<group>";
+		};
+		D7B9089C23A7B0E300056D69 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				D7244CD723A78EFA0056C00B /* NSDate+Extension.h */,
+				D7244CD823A78EFA0056C00B /* NSDate+Extension.m */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		D7B9089D23A7B11800056D69 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D7D335BC23A79D2A005A67D1 /* Weather.h */,
+				D7D335BD23A79D2A005A67D1 /* Weather.m */,
+				D7244CD423A78BED0056C00B /* WeatherApi.h */,
+				D7244CD523A78BED0056C00B /* WeatherApi.m */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 		DCFD0809D17A077EA030F030 /* Frameworks */ = {

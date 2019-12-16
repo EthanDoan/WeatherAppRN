@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/WeatherApi.m \
-  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/WeatherApi.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Model/WeatherApi.m \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Model/WeatherApi.h \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Modules/module.modulemap \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/UIProgressView+AFNetworking.h \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/UIWebView+AFNetworking.h \
@@ -22,4 +22,4 @@ dependencies: \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFURLRequestSerialization.h \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFNetworking.h \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFNetworking-umbrella.h \
-  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/NSDate+Extension.h
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Extension/NSDate+Extension.h
