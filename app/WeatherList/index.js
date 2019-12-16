@@ -1,43 +1,52 @@
 import React, { Component } from 'react'
 import {
-  StyleSheet, Text, View
+  View, 
+  FlatList
 } from 'react-native'
+import styles from '../WeatherList/styles'
+import WeatherItem from './WeatherItem'
 
 export default class WeatherList extends Component {
+
+  constructor(props) {
+    super(props)
+  }
+
+  _renderItem = ({item}) => {
+    return(
+      <WeatherItem 
+        stateName={item.weather_state_name}
+        windDirection={item.wind_direction_compass}
+        created={item.created}
+        minTemp={item.min_temp}
+        maxTemp={item.max_temp}
+        airPressure={item.air_pressure}
+        humidity={item.humidity}
+      />
+    )
+  }
+
+  _renderSeparator = () => {
+    return (
+      <View
+        style={styles.separator}
+      />
+    )
+  }
+
   render() {
-    var contents = this.props['list'].map((weather) => (
-      <Text key={weather.id}>
-        {weather.min_temp}:{weather.max_temp}
-        {'\n'}
-      </Text>
-    ));
+
+    const data = this.props['list']
+
     return (
       <View style={styles.container}>
-        <Text style={styles.highScoresTitle}>2048 High Scores!</Text>
-        <Text style={styles.scores}>{contents}</Text>
+        <FlatList 
+          data={data}
+          renderItem={this._renderItem}
+          keyExtractor={item => `${item.id}`}
+          ItemSeparatorComponent={this._renderSeparator}
+        />
       </View>
-    );
+    )
   }
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#FFFFFF',
-  },
-  highScoresTitle: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  scores: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
-});
-
-// Module name
-// AppRegistry.registerComponent('RNHighScores', () => RNHighScores);

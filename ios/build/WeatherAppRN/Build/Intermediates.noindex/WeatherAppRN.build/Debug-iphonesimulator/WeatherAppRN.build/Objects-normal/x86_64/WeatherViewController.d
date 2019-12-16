@@ -235,6 +235,6 @@ dependencies: \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/React-Core/React.framework/Headers/RCTExceptionsManager.h \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/React-Core/React.framework/Headers/CoreModulesPlugins.h \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/React-Core/React.framework/Headers/React-Core-umbrella.h \
-  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Extension/NSDate+Extension.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Ultis/NSDate+Extension.h \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Model/WeatherApi.h \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Model/Weather.h

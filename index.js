@@ -1,6 +1,5 @@
 import { 
-  AppRegistry,
-  SafeAreaView
+  AppRegistry
 } from 'react-native'
 import WeatherList from './app/WeatherList'
 
