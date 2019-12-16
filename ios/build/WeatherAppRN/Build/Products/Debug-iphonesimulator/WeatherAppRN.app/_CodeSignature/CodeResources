@@ -28,6 +28,18 @@
 		<data>
 		IcmOpmcwIgnBrSLOGmVavCm3f34=
 		</data>
+		<key>Frameworks/AFNetworking.framework/AFNetworking</key>
+		<data>
+		CqNMQeDH8lCXeZblGF5Kl7CFTC0=
+		</data>
+		<key>Frameworks/AFNetworking.framework/Info.plist</key>
+		<data>
+		K/rqvLNB+M5108GzteC7c7jw12A=
+		</data>
+		<key>Frameworks/AFNetworking.framework/_CodeSignature/CodeResources</key>
+		<data>
+		oYU/pDGL3/gQFXtm8kWWI7cO2Ys=
+		</data>
 		<key>Frameworks/CoreModules.framework/CoreModules</key>
 		<data>
 		xxXTKqU6H2ALIaysERNaXdBlGtE=
@@ -230,7 +242,7 @@
 		</data>
 		<key>Frameworks/folly.framework/folly</key>
 		<data>
-		3FzQNZdgNuBP0Iw/Jd9mgz2Ts+I=
+		QtJEwrnYHu9WDA7vmVCbaQgI9c8=
 		</data>
 		<key>Frameworks/glog.framework/Info.plist</key>
 		<data>
@@ -343,6 +355,27 @@
 			<key>hash2</key>
 			<data>
 			dfdkeEkfwfLQK70k6ufo79E3+wGWG8l4ryQ3zYYg1+Q=
+			</data>
+		</dict>
+		<key>Frameworks/AFNetworking.framework/AFNetworking</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zqyUavninXi7Um1feKtgnEbgHdW/AdGWsPdP9+UGygA=
+			</data>
+		</dict>
+		<key>Frameworks/AFNetworking.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qvi2jOApePST67+RoZUu8njCnOcK07POA2RD7LP5qlE=
+			</data>
+		</dict>
+		<key>Frameworks/AFNetworking.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Knw6WZJuG9Y0bzHzxHS4FUiG5GW0w02t1AAoPE9Hj/I=
 			</data>
 		</dict>
 		<key>Frameworks/CoreModules.framework/CoreModules</key>
@@ -699,7 +732,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y/BsPHO+9cEWj2m1cOJR3GvbEvGGJQLxCnq8JlWofNk=
+			Rr1oHbpLvEB9rs7m+bLBc3Pla/sUY7V9nCBaPEvJ2h0=
 			</data>
 		</dict>
 		<key>Frameworks/glog.framework/Info.plist</key>

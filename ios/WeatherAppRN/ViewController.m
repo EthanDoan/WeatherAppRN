@@ -24,7 +24,6 @@
 - (IBAction)showWeather:(UIButton *)sender {
     WeatherViewController *vc = [[WeatherViewController alloc] init];
     [self presentViewController:vc animated:YES completion:nil];
-    
 }
 
 @end

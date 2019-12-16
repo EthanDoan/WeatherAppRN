@@ -1,4 +1,5 @@
 ${PODS_ROOT}/Target Support Files/Pods-WeatherAppRN/Pods-WeatherAppRN-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
 ${BUILT_PRODUCTS_DIR}/DoubleConversion/DoubleConversion.framework
 ${BUILT_PRODUCTS_DIR}/FBReactNativeSpec/FBReactNativeSpec.framework
 ${BUILT_PRODUCTS_DIR}/Folly/folly.framework

@@ -5,9 +5,9 @@ import {
 
 export default class WeatherList extends Component {
   render() {
-    var contents = this.props['scores'].map((score) => (
+    var contents = this.props['list'].map((score) => (
       <Text key={score.name}>
-        {score.name}:{score.value}
+        {score.min_temp}:{score.max_temp}
         {'\n'}
       </Text>
     ));

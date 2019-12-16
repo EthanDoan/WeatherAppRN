@@ -8,6 +8,9 @@
 
 #import "WeatherViewController.h"
 #import <React/RCTRootView.h>
+#import "NSDate+Extension.h"
+#import "WeatherApi.h"
+#import "Weather.h"
 
 @interface WeatherViewController ()
 @property (strong, nonatomic) RCTRootView *rootView;
@@ -20,23 +23,42 @@
     
     NSURL *jsCodeLocation = [NSURL URLWithString:@"http://localhost:8081/index.bundle?platform=ios"];
     
-    _rootView = [[RCTRootView alloc] initWithBundleURL: jsCodeLocation moduleName: @"WeatherList" initialProperties:
-                 @{
-                     @"scores" : @[
-                             @{
-                                 @"name" : @"Alex",
-                                 @"value": @"42"
-                             },
-                             @{
-                                 @"name" : @"Joel",
-                                 @"value": @"10"
-                             }
-                     ]
-    } launchOptions: nil];
     
-    self.view = _rootView;
+    Weather *weather = [[Weather alloc] init];
+    [weather getWeather:^(NSArray * _Nonnull resultArr) {
+        if (!resultArr) {
+            NSLog(@"Fail to get weather data");
+            return;
+        }
+        
+        NSDictionary *initialProps = @{
+            @"list": resultArr
+        };
+        
+        dispatch_async(dispatch_get_main_queue(), ^{
+            self.rootView = [[RCTRootView alloc] initWithBundleURL: jsCodeLocation moduleName: @"WeatherList" initialProperties: initialProps launchOptions: nil];
+            self.view = self.rootView;
+        });
+    }];
+    
+//    [[WeatherApi shared] getYesterdayWeather:^(NSArray * _Nonnull responseArr) {
+//
+//        NSDictionary *initialProps = @{
+//            @"list": responseArr
+//        };
+//
+//        dispatch_async(dispatch_get_main_queue(), ^{
+//            self.rootView = [[RCTRootView alloc] initWithBundleURL: jsCodeLocation moduleName: @"WeatherList" initialProperties: initialProps launchOptions: nil];
+//            self.view = self.rootView;
+//        });
+//    }];
+    
+//    NSDate *yesterday = [NSDate dateWithTimeIntervalSinceNow:-86400];
+//    NSLog(@"%@ - %@ - %@", yesterday.yearString, yesterday.monthString, yesterday.dateString);
     
 }
+
+
 
 
 

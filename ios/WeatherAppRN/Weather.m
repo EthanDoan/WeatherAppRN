@@ -7,7 +7,14 @@
 //
 
 #import "Weather.h"
+#import "WeatherApi.h"
 
 @implementation Weather
+
+- (void)getWeather:(void(^)(NSArray *))completion {
+    [[WeatherApi shared] getYesterdayWeather:^(NSArray * _Nonnull resultArr) {
+        completion(resultArr);
+    }];
+}
 
 @end

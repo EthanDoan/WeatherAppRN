@@ -40,4 +40,6 @@ target 'WeatherAppRN' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
+  pod 'AFNetworking', '~> 3.0'
+  
 end

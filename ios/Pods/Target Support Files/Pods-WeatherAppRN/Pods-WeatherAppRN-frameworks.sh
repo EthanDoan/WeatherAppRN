@@ -161,6 +161,7 @@ strip_invalid_archs() {
 
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
+  install_framework "${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/DoubleConversion/DoubleConversion.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/FBReactNativeSpec/FBReactNativeSpec.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/Folly/folly.framework"
@@ -185,6 +186,7 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/glog/glog.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
+  install_framework "${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/DoubleConversion/DoubleConversion.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/FBReactNativeSpec/FBReactNativeSpec.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/Folly/folly.framework"
