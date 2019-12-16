@@ -16,11 +16,12 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9eP-Ea-OCN">
-                                <rect key="frame" x="137.5" y="309" width="100" height="49"/>
+                                <rect key="frame" x="117.5" y="309" width="140" height="49"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="100" id="t41-VF-SrX"/>
+                                    <constraint firstAttribute="width" constant="140" id="t41-VF-SrX"/>
                                     <constraint firstAttribute="height" constant="49" id="tyb-1r-7ZO"/>
                                 </constraints>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="16"/>
                                 <state key="normal" title="Show weather"/>
                                 <connections>
                                     <action selector="showWeather:" destination="BYZ-38-t0r" eventType="touchUpInside" id="J8M-T2-MAm"/>
