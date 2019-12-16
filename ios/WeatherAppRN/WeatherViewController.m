@@ -24,7 +24,7 @@
     NSURL *jsCodeLocation = [NSURL URLWithString:@"http://localhost:8081/index.bundle?platform=ios"];
     
     Weather *weather = [[Weather alloc] init];
-    [weather getWeather:^(NSArray * _Nonnull resultArr) {
+    [weather getWeatherInfo:^(NSArray * _Nonnull resultArr) {
         if (!resultArr) {
             NSLog(@"Fail to get weather data");
             return;

@@ -22,4 +22,6 @@ dependencies: \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFURLRequestSerialization.h \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFNetworking.h \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/AFNetworking/AFNetworking.framework/Headers/AFNetworking-umbrella.h \
-  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Extension/NSDate+Extension.h
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Extension/NSDate+Extension.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Extension/NSArray+BlocksKit.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Extension/BKDefines.h

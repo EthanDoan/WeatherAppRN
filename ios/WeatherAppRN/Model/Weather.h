@@ -12,7 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface Weather : NSObject
 
-- (void)getWeather:(void(^)(NSArray *))completion;
+- (void)getWeatherInfo:(void(^)(NSArray *))completion;
 
 @end
 

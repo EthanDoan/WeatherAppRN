@@ -11,12 +11,8 @@
 
 @implementation Weather
 
-- (void)getWeather:(void(^)(NSArray *))completion {
+- (void)getWeatherInfo:(void(^)(NSArray *))completion {
     [[WeatherApi shared] getYesterdayWeather:^(NSArray * _Nonnull resultArr) {
-        
-        
-        
-        
         completion(resultArr);
     }];
 }

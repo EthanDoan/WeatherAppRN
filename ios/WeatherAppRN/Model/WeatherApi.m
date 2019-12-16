@@ -9,6 +9,7 @@
 #import "WeatherApi.h"
 #import <AFNetworking/AFHTTPSessionManager.h>
 #import "NSDate+Extension.h"
+#import "NSArray+BlocksKit.h"
 
 @implementation WeatherApi
 
@@ -26,7 +27,15 @@
     AFHTTPSessionManager *manager = [AFHTTPSessionManager manager];
     NSString *url = [NSString stringWithFormat:@"https://www.metaweather.com/api/location/1100661/%@/%@/%@/", yesterday.yearString, yesterday.monthString, yesterday.dateString];
     [manager GET:url parameters:nil progress:nil success:^(NSURLSessionTask *task, id responseObject) {
-        completion((NSArray *)responseObject);
+        NSMutableArray *resultArr = [NSMutableArray new];
+        [(NSArray *)responseObject bk_each:^(id  _Nonnull obj) {
+            NSDictionary *dict = (NSDictionary *)obj;
+            NSString *str = dict[@"created"];
+            if ([str containsString:[NSString stringWithFormat:@"%@-%@-%@",yesterday.yearString, yesterday.monthString, yesterday.dateString]]) {
+                [resultArr addObject:dict];
+            }
+        }];
+        completion(resultArr);
     } failure:^(NSURLSessionTask *operation, NSError *error) {
         NSLog(@"Error: %@", error.localizedDescription);
         completion(nil);
