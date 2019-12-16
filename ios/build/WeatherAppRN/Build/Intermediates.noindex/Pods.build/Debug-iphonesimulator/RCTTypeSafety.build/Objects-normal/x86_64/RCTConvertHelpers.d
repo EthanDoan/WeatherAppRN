@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/Pods/Folly/folly/Optional.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/Pods/Folly/folly/Portability.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/Pods/Folly/folly/CPortability.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/Pods/Folly/folly/Traits.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/Pods/Folly/folly/Utility.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/ReactCommon/yoga/yoga/YGValue.h

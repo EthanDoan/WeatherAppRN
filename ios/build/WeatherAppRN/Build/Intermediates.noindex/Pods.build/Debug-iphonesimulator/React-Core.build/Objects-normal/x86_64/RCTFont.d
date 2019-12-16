@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Views/RCTFont.mm \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Views/RCTFont.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/node_modules/react-native/ReactCommon/yoga/yoga/YGValue.h
