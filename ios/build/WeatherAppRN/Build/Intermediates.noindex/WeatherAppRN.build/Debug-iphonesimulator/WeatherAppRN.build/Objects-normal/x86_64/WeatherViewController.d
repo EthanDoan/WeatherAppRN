@@ -237,4 +237,22 @@ dependencies: \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/React-Core/React.framework/Headers/React-Core-umbrella.h \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Ultis/NSDate+Extension.h \
   /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Model/WeatherApi.h \
-  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Model/Weather.h
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Model/Weather.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Modules/module.modulemap \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/NSLayoutConstraint+MASDebugAdditions.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASViewConstraint.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/NSArray+MASShorthandAdditions.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/NSArray+MASAdditions.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/ViewController+MASAdditions.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/View+MASShorthandAdditions.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASViewAttribute.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/View+MASAdditions.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/Masonry.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASLayoutConstraint.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASConstraintMaker.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASConstraint+Private.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASUtilities.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASConstraint.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASCompositeConstraint.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/build/WeatherAppRN/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/Masonry-umbrella.h \
+  /Users/admin/Documents/Data/ReactNative/integrateToExistingApp/WeatherAppRN/ios/WeatherAppRN/Ultis/UIView+Extension.h

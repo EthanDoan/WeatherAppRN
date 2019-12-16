@@ -18,7 +18,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		pfLgvW4+kvFsuELL2mCxmvaBaSc=
+		xdxCLuZ95VB/tSjy5Pe++A/fE10=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		IcmOpmcwIgnBrSLOGmVavCm3f34=
+		8ZOKzirl+nwUgQ5H8wLUkPHTPG8=
 		</data>
 		<key>Frameworks/AFNetworking.framework/AFNetworking</key>
 		<data>
-		CqNMQeDH8lCXeZblGF5Kl7CFTC0=
+		5Nddh4A9bknrD5g9PM1FnCiTDtI=
 		</data>
 		<key>Frameworks/AFNetworking.framework/Info.plist</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Frameworks/CoreModules.framework/CoreModules</key>
 		<data>
-		xxXTKqU6H2ALIaysERNaXdBlGtE=
+		Kys0/1Nzyvj0U5/yYwiFEp8RkSw=
 		</data>
 		<key>Frameworks/CoreModules.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/DoubleConversion.framework/DoubleConversion</key>
 		<data>
-		9SDvV58cFZEhNBprrUFowOOCGpE=
+		nxpIe/qxIrgxTU/oSgI8SPcw+sw=
 		</data>
 		<key>Frameworks/DoubleConversion.framework/Info.plist</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Frameworks/FBReactNativeSpec.framework/FBReactNativeSpec</key>
 		<data>
-		jFQo187EdcW7n7qvIhFpiFcD938=
+		yBOSW4p3b8oi5j8vDckzmwrb0QU=
 		</data>
 		<key>Frameworks/FBReactNativeSpec.framework/Info.plist</key>
 		<data>
@@ -76,13 +76,25 @@
 		<data>
 		7ZGuxLv8ajx+RJ0DxuVTwTKhuLI=
 		</data>
+		<key>Frameworks/Masonry.framework/Info.plist</key>
+		<data>
+		nZ71KzNRgo8zUsxj4L2ls43Qiz4=
+		</data>
+		<key>Frameworks/Masonry.framework/Masonry</key>
+		<data>
+		NjDdIJKWSqqo7rRLf3HAfI6Y3Kw=
+		</data>
+		<key>Frameworks/Masonry.framework/_CodeSignature/CodeResources</key>
+		<data>
+		cp9Gjd02aFmXI/aPqle9dA7ZFfs=
+		</data>
 		<key>Frameworks/RCTActionSheet.framework/Info.plist</key>
 		<data>
 		3xV+JuNln93J/Nj/b8UIwD8YQoE=
 		</data>
 		<key>Frameworks/RCTActionSheet.framework/RCTActionSheet</key>
 		<data>
-		t2+W3NpUpgfWRvbqKpkUMxRm9xo=
+		8W9+zAF5OJsIO/fWdUWNrFJ9MOU=
 		</data>
 		<key>Frameworks/RCTActionSheet.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -94,7 +106,7 @@
 		</data>
 		<key>Frameworks/RCTAnimation.framework/RCTAnimation</key>
 		<data>
-		I1k/BIISgLJcyNZBsS8oAFQmcfE=
+		kE/PmPEzqJsHEcWYPPgC80nVe8U=
 		</data>
 		<key>Frameworks/RCTAnimation.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -106,7 +118,7 @@
 		</data>
 		<key>Frameworks/RCTBlob.framework/RCTBlob</key>
 		<data>
-		2iq6eQB6jt55/YHsLGDwjUJPPdY=
+		SWFgOnQbRbho8PUYLn1ui9N4xyw=
 		</data>
 		<key>Frameworks/RCTBlob.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -118,7 +130,7 @@
 		</data>
 		<key>Frameworks/RCTImage.framework/RCTImage</key>
 		<data>
-		WuM03Fe1M/Cu52oMx2OUCQrnSKw=
+		fY2HTGvQeBj+lC8vduVxRD/0njU=
 		</data>
 		<key>Frameworks/RCTImage.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -130,7 +142,7 @@
 		</data>
 		<key>Frameworks/RCTLinking.framework/RCTLinking</key>
 		<data>
-		Rhi+7J6uZlfExhdLU3H+IemKgGY=
+		Bel84ms5sOy+DoirxogHscvI2Sw=
 		</data>
 		<key>Frameworks/RCTLinking.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -142,7 +154,7 @@
 		</data>
 		<key>Frameworks/RCTNetwork.framework/RCTNetwork</key>
 		<data>
-		7+DtjDs9wO78qYpilvtdchVyQ1c=
+		Pf9TO5cMhZiH/stX5G2hj6/nW1o=
 		</data>
 		<key>Frameworks/RCTNetwork.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -154,7 +166,7 @@
 		</data>
 		<key>Frameworks/RCTSettings.framework/RCTSettings</key>
 		<data>
-		OTeA/aIAtFR9k6V5r76nMpOLy4I=
+		Dv1OD7g5gJNgI80u5R/1Xll8X9Q=
 		</data>
 		<key>Frameworks/RCTSettings.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -166,7 +178,7 @@
 		</data>
 		<key>Frameworks/RCTText.framework/RCTText</key>
 		<data>
-		FyDke0R5DockQAOCGThIkVdsD6A=
+		MDIF4p1qM2Lfabu8ACIkM3IBw4w=
 		</data>
 		<key>Frameworks/RCTText.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -178,7 +190,7 @@
 		</data>
 		<key>Frameworks/RCTTypeSafety.framework/RCTTypeSafety</key>
 		<data>
-		aUXuO1ZYSdL/uBa3Eh1udFGW70A=
+		hxRuTiBmoQxSZ7U493300GNf6PQ=
 		</data>
 		<key>Frameworks/RCTTypeSafety.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -190,7 +202,7 @@
 		</data>
 		<key>Frameworks/RCTVibration.framework/RCTVibration</key>
 		<data>
-		Q3wOG7sTfiGu1fzeBPmXVReWbls=
+		R19GS3QI0pXxu7Kbmai8Ytdq0v8=
 		</data>
 		<key>Frameworks/RCTVibration.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -202,7 +214,7 @@
 		</data>
 		<key>Frameworks/React.framework/React</key>
 		<data>
-		0n0uULtaFgYPMjN1cLSqIifiyJc=
+		P/a2txiSE1zuHnC713kxsM86mSg=
 		</data>
 		<key>Frameworks/React.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -214,7 +226,7 @@
 		</data>
 		<key>Frameworks/ReactCommon.framework/ReactCommon</key>
 		<data>
-		4E89UsIX+1eapf1l9I2egPZMDq0=
+		KGMTh+22QqiTcduAXgoEmI0/hHM=
 		</data>
 		<key>Frameworks/ReactCommon.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -230,7 +242,7 @@
 		</data>
 		<key>Frameworks/cxxreact.framework/cxxreact</key>
 		<data>
-		MQiK0BEIZvbluqmEcLIixvLADkg=
+		X4Jgih7MaJbnklVW5SEM2ZqLmRo=
 		</data>
 		<key>Frameworks/folly.framework/Info.plist</key>
 		<data>
@@ -242,7 +254,7 @@
 		</data>
 		<key>Frameworks/folly.framework/folly</key>
 		<data>
-		QtJEwrnYHu9WDA7vmVCbaQgI9c8=
+		xyIuTLQDqYSamiVzkOuwNh8tgW4=
 		</data>
 		<key>Frameworks/glog.framework/Info.plist</key>
 		<data>
@@ -254,7 +266,7 @@
 		</data>
 		<key>Frameworks/glog.framework/glog</key>
 		<data>
-		okO/vkQMwCgumkEftovCzT6SPII=
+		NEw8yoUTxy4qdeHh+s2CtCvcydk=
 		</data>
 		<key>Frameworks/jsi.framework/Info.plist</key>
 		<data>
@@ -266,7 +278,7 @@
 		</data>
 		<key>Frameworks/jsi.framework/jsi</key>
 		<data>
-		xEGaZwahhzbftPBpqECMu/kGDwM=
+		d+O36eBWchRA96Gcpxst/6zSkJA=
 		</data>
 		<key>Frameworks/jsinspector.framework/Info.plist</key>
 		<data>
@@ -278,7 +290,7 @@
 		</data>
 		<key>Frameworks/jsinspector.framework/jsinspector</key>
 		<data>
-		+DbOVRzuq7kJ0PWz/4gF5+Rwx5o=
+		pC3PdWVzGznSZVrj0vglgwCQ20k=
 		</data>
 		<key>Frameworks/jsireact.framework/Info.plist</key>
 		<data>
@@ -290,7 +302,7 @@
 		</data>
 		<key>Frameworks/jsireact.framework/jsireact</key>
 		<data>
-		1P34T/r6P8Q6La8AE+ZK3R6ECyM=
+		7N3qeO9mAeBsI32DZcHz+Po0cyI=
 		</data>
 		<key>Frameworks/yoga.framework/Info.plist</key>
 		<data>
@@ -302,7 +314,7 @@
 		</data>
 		<key>Frameworks/yoga.framework/yoga</key>
 		<data>
-		flJAbPDDveivEWAUe1oWlwHGP8k=
+		W9opuLIWLGVdRH8UPPjsuXlwSBM=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -340,7 +352,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iLr0GaFF409vZG7vyY22mgdWfz6byha+HklokVnNJLo=
+			ZupdbR675hHfW987uSqbEsqBZ6Gq1Y8wuVKAyGfbpv0=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -354,14 +366,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dfdkeEkfwfLQK70k6ufo79E3+wGWG8l4ryQ3zYYg1+Q=
+			yxTnjyOp8XuvNRd5susCdkRjYqLr6KS7fe74qaVmuEY=
 			</data>
 		</dict>
 		<key>Frameworks/AFNetworking.framework/AFNetworking</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zqyUavninXi7Um1feKtgnEbgHdW/AdGWsPdP9+UGygA=
+			VsmtKXzI9bE9AekqZs4ci/m5An8eTcIRbuIO6NcnKS4=
 			</data>
 		</dict>
 		<key>Frameworks/AFNetworking.framework/Info.plist</key>
@@ -382,7 +394,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lxNby2WP5XNXs1K4xz9X4Y7h4vv/m79re4kJdH8JSDo=
+			b3alEJxx7kdwQJOnolE7iAdFCx0O/VZvnMqd3NtcTsU=
 			</data>
 		</dict>
 		<key>Frameworks/CoreModules.framework/Info.plist</key>
@@ -403,7 +415,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g6I9jlxQG4wk9dsbLkrCNG0YO65AGpHhAVYTWr65h5Q=
+			LPSPGl9plEB83Bpona/VuoIH3gBgZwqsrtXvNRmqSRg=
 			</data>
 		</dict>
 		<key>Frameworks/DoubleConversion.framework/Info.plist</key>
@@ -424,7 +436,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Om6yRaCE/CR2xCvRbGP65l/la/1Rfcr2CYBnP8Iq008=
+			QMr3Vvzg1OHKjZcHWkhpBQ6IDHLidyVf99VkqUk+kqI=
 			</data>
 		</dict>
 		<key>Frameworks/FBReactNativeSpec.framework/Info.plist</key>
@@ -441,6 +453,27 @@
 			PMiF7m6DooIlSHuI5HwW7Znw5JDvxe1naGM8n3Hv0SY=
 			</data>
 		</dict>
+		<key>Frameworks/Masonry.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A2BidQMMJ4MHeqG/DH+LTR9Zf4ynMBkYo1836/gSO0U=
+			</data>
+		</dict>
+		<key>Frameworks/Masonry.framework/Masonry</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O1JO5bIpZtLCT8djFYcez75PQBmmDBMnkALQuexUnXM=
+			</data>
+		</dict>
+		<key>Frameworks/Masonry.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MxUhXZaDdxZsNaKpVLyaNMXIP4GIopW/DvInXfX8AbY=
+			</data>
+		</dict>
 		<key>Frameworks/RCTActionSheet.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -452,7 +485,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZHFNdDtY3fQ1LIe07oD/RxaOQLGOstgEKijk87lGaSk=
+			6IvFo3TNOJ5Jl4rODH4a/FHDzZBodtyFgXfSYoNS8P8=
 			</data>
 		</dict>
 		<key>Frameworks/RCTActionSheet.framework/_CodeSignature/CodeResources</key>
@@ -473,7 +506,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bso8fAqhYuK6VzMLTjfgYdm/iPMP0AItOK5UXKWy0jU=
+			oevFj8o4MqsOMMuEqeaqkVf19+c0j+0uiyoHKkdPj68=
 			</data>
 		</dict>
 		<key>Frameworks/RCTAnimation.framework/_CodeSignature/CodeResources</key>
@@ -494,7 +527,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			54v7/2nKRTxFk8YuD2F+4RZKhBFgALTI3si2fngWolY=
+			dICuJfEA8kOatBW2jSpYcgZaiGUg1ZrXdjPHzaPv33o=
 			</data>
 		</dict>
 		<key>Frameworks/RCTBlob.framework/_CodeSignature/CodeResources</key>
@@ -515,7 +548,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MrwQjU2ortPSc9YLW70DaWfxJzdYRGnO4/MIQIVYr7s=
+			c6lLnqiRYSOenw/sCdct4zQXXT/3eq+1KwuWfr/n9Ek=
 			</data>
 		</dict>
 		<key>Frameworks/RCTImage.framework/_CodeSignature/CodeResources</key>
@@ -536,7 +569,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6azXHFx1oUL9XVwLZ/5iVgevBUilnGj/hSZeGURA7m8=
+			KWRzo6fgbS4HdmO/TPiixyDYGZPuQYyYweEpXCd1yM0=
 			</data>
 		</dict>
 		<key>Frameworks/RCTLinking.framework/_CodeSignature/CodeResources</key>
@@ -557,7 +590,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			70roPz7Mts7BhF5gacfdH/pXeZfyiofQbe27fhs+EEc=
+			6Fu97zYSsy9vIKnD0fTUzmIoo30ide9acfDZgAtWHjM=
 			</data>
 		</dict>
 		<key>Frameworks/RCTNetwork.framework/_CodeSignature/CodeResources</key>
@@ -578,7 +611,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TlXhf7qgCPL8bZeXU6uPnfZCtazx0iFdN5FkudBfp2E=
+			KfKFRd3qPcZCS8mWkgcRy7Ypzebl4ZfEAfSBuSLxzNw=
 			</data>
 		</dict>
 		<key>Frameworks/RCTSettings.framework/_CodeSignature/CodeResources</key>
@@ -599,7 +632,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			liDQCvE1/KqeZnqMYxdureUtO+SGLiJuVxk2tuJsgm4=
+			5C5igtC0WGR5fmDeki9dO7Qn2lZdwOOF/vOBBYYtrzA=
 			</data>
 		</dict>
 		<key>Frameworks/RCTText.framework/_CodeSignature/CodeResources</key>
@@ -620,7 +653,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MmDLe8N+5ZqMaF1b8Muw9pmf9UmMFxrJUu5plzlfo+c=
+			zaj6hZdt8HTc+24gqX002ggauH6VeiEPGasZQSOhZEA=
 			</data>
 		</dict>
 		<key>Frameworks/RCTTypeSafety.framework/_CodeSignature/CodeResources</key>
@@ -641,7 +674,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vJulUwUTMe5cwGaexM9DMXc7nVHrpKrMLmRy2tyuCTo=
+			9Bke3Rq5QRvJMATyjJRNTuILHMbHFoyKRcIccerVKaQ=
 			</data>
 		</dict>
 		<key>Frameworks/RCTVibration.framework/_CodeSignature/CodeResources</key>
@@ -662,7 +695,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3eglZU9rk9zCf6s7VoswYKqMKs2l3ZL5ggEOgRcgaBc=
+			owzCCm+BymHnmHTSH7i1qTIFrNURinygv7petRNX27o=
 			</data>
 		</dict>
 		<key>Frameworks/React.framework/_CodeSignature/CodeResources</key>
@@ -683,7 +716,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			An9nn+p5e6Ht84ReA+4ikCKeJBNmzE5DWGFHMdRdgPY=
+			h80EQetYvPau3LK555Voq4G2hNjRkVODt/xjyWLWLy4=
 			</data>
 		</dict>
 		<key>Frameworks/ReactCommon.framework/_CodeSignature/CodeResources</key>
@@ -711,7 +744,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L4doOahMcz2UfC76qvgiesUQoClFiCEP39tnQo9mJFU=
+			mWMmttdgqzJVFvGH+i7in0whbKxalKBZRVLf265//yw=
 			</data>
 		</dict>
 		<key>Frameworks/folly.framework/Info.plist</key>
@@ -732,7 +765,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rr1oHbpLvEB9rs7m+bLBc3Pla/sUY7V9nCBaPEvJ2h0=
+			zdckCcJIdN6jbVMlUdq/zBOSb2k+4hNnhOwrxGJhz6U=
 			</data>
 		</dict>
 		<key>Frameworks/glog.framework/Info.plist</key>
@@ -753,7 +786,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B4DsOVd/SjzQ+jkmTdgxtUMt19+rh6WvvS74NCxfcOg=
+			k1uJ/UaYxHYQ/pg6HpgFimDnB9I7fkYVHikR4aNXDt0=
 			</data>
 		</dict>
 		<key>Frameworks/jsi.framework/Info.plist</key>
@@ -774,7 +807,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Ht4ugYiytsqnky+Jnlf9ALx1yxyfc5wMZPV7yInWDY=
+			TDEEYCLN4tIZQPYcMI+DcjS+leVT6n2/ddtJ2SsJHCE=
 			</data>
 		</dict>
 		<key>Frameworks/jsinspector.framework/Info.plist</key>
@@ -795,7 +828,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			79Ek/69f0rIMBfNid2hnwvDjI275sMK53MHvXFaFytw=
+			p+nvd0NHPaUAAfeG0ADZxtUZBDAl2WZO0S/Jg3tBjxo=
 			</data>
 		</dict>
 		<key>Frameworks/jsireact.framework/Info.plist</key>
@@ -816,7 +849,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+3TBp5dCvkd/TuCMvWLsjCfhxoZ/vLpoUOLB5a3KfBc=
+			f8lTNGn+abUpcroAlWp0Lc1LUjeepwwWj6lJW01uPT8=
 			</data>
 		</dict>
 		<key>Frameworks/yoga.framework/Info.plist</key>
@@ -837,7 +870,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d0Xcq8wIIGu0fHF7AuaTH8JIEnKN3oz/z95JClvWcME=
+			TY5vrBpoJcFhjXc/uTCOAO2K4aMfYmn65EHG9Eim5Ok=
 			</data>
 		</dict>
 	</dict>
